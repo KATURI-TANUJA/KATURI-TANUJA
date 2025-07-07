@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Data Analytics etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KATURI-TANUJA/PROJECTS](https://github.com/KATURI-TANUJA/PROJECTS)
+- 👨‍💻 All of my projects are available at [https://github.com/KATURI-TANUJA?tab=repositories](https://github.com/KATURI-TANUJA?tab=repositories)
 
 - 📫 How to reach me **katuritanuja@gmail.com**
 
